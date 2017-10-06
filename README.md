@@ -6,3 +6,5 @@ The results were presented as a presentation quality poster suitable for an acad
 
 My colleague and I chose a social dataset from the UCI repository which recorded results for Maths and Protuguese 
 in 2 different schools, and we evaluated Naive Bayes and Decision Tree models. 
+
+![alt text](https://github.com/suzannefox/MachineLearningPoster/raw/master/Poster.png "Final poster")
